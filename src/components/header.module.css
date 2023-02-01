@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    background-color: aqua;
+    padding-left: 2rem;
+    padding-right: 9rem;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+}
+.button{
+    /* padding: 1rem; */
+    background-color: rgb(255, 251, 127);
+    border:none;
+    width: 11rem;
+    height:3.5rem;
+    font-size: larger;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    }

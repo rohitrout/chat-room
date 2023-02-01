@@ -1,0 +1,17 @@
+.home{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 17rem;
+}
+.button{
+    padding: 1rem;
+    background-color: aquamarine;
+    border:none;
+    width: 9rem;
+    font-size: larger;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    }

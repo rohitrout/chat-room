@@ -1,0 +1,36 @@
+.main{
+    display: flex;
+    /* align-items: center; */
+    /* border: 1px solid red; */
+    flex-direction: column;
+}
+.input{
+    margin-top: 2rem;
+    /* margin-left: 7rem; */
+    height:3rem;
+    border-radius: 6px;
+    font-size: x-large;
+    width:80%;
+    border:1px solid blue;
+    margin: auto;
+    padding-left: 0.5rem;
+}
+.button{
+padding: 1rem;
+background-color: aquamarine;
+border:none;
+width: 9rem;
+font-size: larger;
+border-radius: 8px;
+font-weight: bold;
+cursor: pointer;
+}
+.data{
+    margin: auto;
+}
+.form{
+    margin: auto;
+    display: flex;
+    gap: 1.7rem;
+    align-items: center;
+}
